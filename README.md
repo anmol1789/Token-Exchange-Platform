@@ -13,7 +13,7 @@ To create a future-ready decentralized exchange ecosystem that empowers users to
 ## 🔗 Embeddable Link  
 
 **Platform Access Link:** [Insert your platform link here]  
-_Example: https://your-platform-url.com_
+_Example: https://embeddables.testnet.andromedaprotocol.io/constantine-3/tpt-token-exchange-dapp
 
 ## 🔑 Key Features
 
