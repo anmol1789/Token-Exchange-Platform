@@ -6,6 +6,11 @@ The **Token Exchange Platform** is a real-time digital asset management and trad
 
 Whether you're a seasoned trader or just exploring Web3 capabilities, this platform offers a smooth and intuitive experience for all users.
 
+## 👨‍💻 About Me
+
+I’m currently a second-year Computer Science Engineering student at IP University, Delhi. Alongside my degree, I’m also pursuing a specialization in Cybersecurity to deepen my understanding of digital safety and ethical hacking. Originally from Bihar, India, I’m passionate about technology, programming, and securing systems. My goal is to continuously learn and contribute to real-world tech solutions.
+
+
 ## 🌍 Project Vision
 
 To create a future-ready decentralized exchange ecosystem that empowers users to take full control of their digital assets, ensures transparent transactions, and drives innovation in tokenized economies—all with enterprise-level speed and security.
@@ -56,6 +61,26 @@ _Example: https://embeddables.testnet.andromedaprotocol.io/constantine-3/tpt-tok
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 🚀 Installation Guide
+
+Follow these steps to install and run the project locally:
+
+### 📦 Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [Git](https://git-scm.com/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- Any code editor (e.g., [VS Code](https://code.visualstudio.com/))
+
+### 🛠️ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-project-name.git
+cd your-project-name
+
 
 ## Getting Started
 
